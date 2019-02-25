@@ -12,6 +12,7 @@
 exec "setxkbmap -layout es"
 exec_always --no-startup-id feh --bg-fill --randomize $HOME/pictures/wallpapers/girl_wallpaper.jpg
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+exec_always --no-startup-id compton -b
 
 set $mod Mod4
 

@@ -3,7 +3,10 @@ pacman -S git \
 	feh \
 	dina-font \
 	rofi \
-	pulseaudio
+	pulseaudio \
+	compton
+
+pacman -S lightdm lightdm-gtk-greeter
 
 # Install oh-my-zsh
 sh -c "$(curl -fsSL 

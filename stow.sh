@@ -1,5 +1,6 @@
 stow x
 stow i3
+stow compton
 stow rofi
 stow polybar
 stow zsh
