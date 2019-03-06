@@ -6,3 +6,4 @@ stow polybar
 stow zsh
 stow oh-my-zsh
 stow gtk
+stow vim

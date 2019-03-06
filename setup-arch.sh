@@ -4,7 +4,9 @@ pacman -S git \
 	dina-font \
 	rofi \
 	pulseaudio \
-	compton
+	compton \
+	udevil \
+	pavucontrol
 
 pacman -S lightdm lightdm-gtk-greeter
 
